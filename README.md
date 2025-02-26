@@ -15,7 +15,7 @@ This is a simple Flask-based authentication system that allows users to sign up 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone [https://github.com/your-username/your-repo.git](https://github.com/7Rajverma/Flask-Form)
    cd your-repo
    ```
 
